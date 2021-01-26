@@ -2,6 +2,7 @@
 Submitted systems of "The First Workshop & Shared Task on Scope Detection of the Peer Review Articles" 2021 shared task
 
 ## Submitted Teams
+* **UTMN**
 * **IIITT**
 * **FideLIPI**
 
